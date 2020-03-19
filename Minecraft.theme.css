@@ -1,0 +1,9 @@
+/*//META{"name":"Minecraft Font","description":"Just a little something I made when I was bored.","author":"Eaveslabet","version":"1.0"}*//**/
+@import url(https://eaveslabet.github.io/Minecraft.css);
+
+:root {
+    --font-size: 15px;        
+    --word-spacing: 3px;      
+    --line-spacing: 2;       
+    --letter-spacing: 0.25px; 
+}
