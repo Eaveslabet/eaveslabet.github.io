@@ -2,15 +2,8 @@
 
 @import url('https://eaveslabet.github.io/Minecraft.css');
 
-/* ----------------------------------------------------------------------- */
-
-/* SETTINGS */
-
 :root {
-    --font-size: 15px;        /* Font size (Over 16 px starts to cause issues) */
-    --word-spacing: 3px;      /* Word spacing */
-    --line-spacing: 2;        /* Line spacing */
-    --letter-spacing: 0.25px; /* Letter Spacing */
+    --font-size: 15px;               
+    --letter-spacing: 0.25px; 
 }
 
-/* ----------------------------------------------------------------------- */
