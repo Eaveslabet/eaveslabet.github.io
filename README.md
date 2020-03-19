@@ -8,7 +8,7 @@ This notice applies to all files within this repository even where not stated wi
 <br>
 <strong>(CC BY-NC-SA 4.0)</strong><br>
 <br>
-<strong>You are free to:</strong>
+<strong>You are free to:</strong><br>
 <ul>
   <li>Share - copy and redistribute the material in any medium or format</li>
   <li>Adapt - remix, transform, and build upon the material</li>
