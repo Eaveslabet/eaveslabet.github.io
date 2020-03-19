@@ -1,4 +1,10 @@
-/*//META{"name":"Minecraft","description":"Something I made while bored, probably not practical.","author":"Eaveslabet","version":"0.0.0"}*//**/
+/**
+ * @name Mojangles Font
+ * @version 0.0.1
+ * @description Something I made while bored and because I was bored, probably not practical.
+ * @authorId 689418216392622089
+ * @author Eaveslabet
+**/
 
 @import url('https://eaveslabet.github.io/Minecraft.css');
 
@@ -6,4 +12,3 @@
     --font-size: 15px;               
     --letter-spacing: 0.25px; 
 }
-
