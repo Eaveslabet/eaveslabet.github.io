@@ -1,0 +1,14 @@
+/**
+ * @name Terraria Font
+ * @version 0.0.1
+ * @description Something I made while bored and because I was bored. Not practical as it lacks italics and bold.
+ * @authorId 689418216392622089
+ * @author Eaveslabet
+**/
+
+@import url('https://eaveslabet.github.io/Terraria.css');
+
+:root {
+    --font-size: 15px;               
+    --letter-spacing: 0.25px; 
+}

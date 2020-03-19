@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'terraria';
+    src: url('https://eaveslabet.github.io/font/terraria.woff');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'terraria';
+    src: url('https://eaveslabet.github.io/font/terraria.woff');
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'terraria';
+    src: url('https://eaveslabet.github.io/font/terraria.woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'terraria';
+    src: url('https://eaveslabet.github.io/font/terraria.woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+*:not(code), ::-webkit-input-placeholder {
+    font-family: terraria !important;
+	font-size: var(--font-size, initial);
+    -webkit-font-smoothing : none;
+}
