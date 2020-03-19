@@ -1,27 +1,27 @@
 @font-face {
     font-family: 'mojangles';
-         url('mojanglesbold.woff');
+    src: url('https://eaveslabet.github.io/font/mojanglesbold.woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'mojangles';
-         url('mojanglesbolditalic.woff');
+    src: url('https://eaveslabet.github.io/font/mojanglesbolditalic.woff');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'mojangles';
-         url('mojanglesitalic.woff');
+    src: url('https://eaveslabet.github.io/font/mojanglesitalic.woff');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'mojangles';
-         url('mojanglesregular.woff');
+    src: url('https://eaveslabet.github.io/font/mojanglesregular.woff');
     font-weight: normal;
     font-style: normal;
 }
