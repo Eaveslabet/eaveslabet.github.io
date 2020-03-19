@@ -3,6 +3,8 @@
     src: url('https://eaveslabet.github.io/font/mojanglesregular.woff');
     font-style: normal;
     font-weight: normal;
+    font-smooth: never;
+    -webkit-font-smoothing : none;
 }
 
 @font-face {
@@ -10,6 +12,8 @@
     src: url('https://eaveslabet.github.io/font/mojanglesitalic.woff');
     font-style: italic;
     font-weight: normal;
+    font-smooth: never;
+    -webkit-font-smoothing : none;
 }
 
 @font-face {
@@ -17,6 +21,8 @@
     src: url('https://eaveslabet.github.io/font/mojanglesbold.woff');
     font-weight: bold;
     font-style: normal;
+    font-smooth: never;
+    -webkit-font-smoothing : none;
 }
 
 @font-face {
@@ -24,9 +30,9 @@
     src: url('https://eaveslabet.github.io/font/mojanglesbolditalic.woff');
     font-weight: bold;
     font-style: italic;
+    font-smooth: never;
+    -webkit-font-smoothing : none;
 }
-
-/* ----------------------------------------------------------------------- */
 
 *:not(code), ::-webkit-input-placeholder {
     font-family: mojangles !important;
