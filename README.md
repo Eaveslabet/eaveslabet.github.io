@@ -1,6 +1,6 @@
 # eaveslabet.github.io
 
-Honestly, I have no idea what I'm doing, but I'm gonna try my hardest.
+Honestly, I have no idea what I'm doing most of the time, but I'm gonna try my hardest.
 
 # Copyright Notice
 
